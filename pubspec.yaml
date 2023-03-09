@@ -31,6 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
   connectivity_plus: 
+  animate_gradient: ^0.0.2
 
 dev_dependencies:
   flutter_test:
